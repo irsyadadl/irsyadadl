@@ -2,7 +2,7 @@ Saya **Irsyad A. Panjaitan** ([@irsyadadl](https://twitter.com/irsyadadl)), seor
 
 Saya suka membagikan semua yang saya tahu tentang membuat perangkat lunak yang luar biasa melalui **artikel**, **screencast**, dan **kursus** saya.
 
-### Sedikit tentang perjalan saya
+### Sedikit tentang perjalanan saya
 
 Pada tahun 2015, saya merilis website yang bernama [Parsinta](http://parsinta.com/), yang mana saat ini masih aktif. Hanya saja sempat pakum selama 1 tahun lebih karena pekerjaan. Jadi mulai dari pertenganan tahun 2016 sampai 2018 saya bekerja di beberapa perusahaan yang bergerak di bidang jasa pembuatan perangkat lunak, dan saya bekerja sebagai software engineer.
 
