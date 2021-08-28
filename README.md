@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=irsyadadl&show_icons=true&theme=default&count_private=true" />
+[![Statistic](https://github-readme-stats.vercel.app/api?username=irsyadadl&show_icons=true&theme=default&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadadl&layout=compact&theme=default)](https://github.com/irsyadadl/github-readme-stats)
 
