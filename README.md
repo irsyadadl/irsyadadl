@@ -1,3 +1,5 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=<usernamegithub>&show_icons=true&theme=chartreuse-dark&count_private=true" />
+
 Saya **Irsyad A. Panjaitan** ([@irsyadadl](https://twitter.com/irsyadadl)), seorang *full-stack developer* yang saat ini sedang bekerja sebagai instruktor di [Parsinta](http://parsinta.com/).
 
 Saya suka membagikan semua yang saya tahu tentang membuat perangkat lunak yang luar biasa melalui **artikel**, **screencast**, dan **kursus** saya.
