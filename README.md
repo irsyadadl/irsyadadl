@@ -1,6 +1,6 @@
 ![Statistic](https://github-readme-stats.vercel.app/api?username=irsyadadl&show_icons=true&theme=default&border_radius=24&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadadl&layout=compact&border_radius=24&theme=default)(https://github.com/irsyadadl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadadl&layout=compact&border_radius=24&theme=default)](https://github.com/irsyadadl/github-readme-stats)
 
 Saya **Irsyad A. Panjaitan** ([@irsyadadl](https://twitter.com/irsyadadl)), seorang *full-stack developer* yang saat ini sedang bekerja sebagai instruktor di [Parsinta](http://parsinta.com/).
 
