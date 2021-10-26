@@ -1,4 +1,4 @@
-![Statistic](https://github-readme-stats.vercel.app/api?username=irsyadadl&show_icons=true&theme=default&border_radius=24&count_private=true)
+<!-- ![Statistic](https://github-readme-stats.vercel.app/api?username=irsyadadl&show_icons=true&theme=default&border_radius=24&count_private=true) -->
 
 Saya **Irsyad A. Panjaitan** ([@irsyadadl](https://twitter.com/irsyadadl)), seorang *full-stack developer* yang saat ini sedang bekerja sebagai instruktor di [Parsinta](http://parsinta.com/).
 
