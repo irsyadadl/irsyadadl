@@ -4,4 +4,4 @@ Let's start living like no one can help us in any event, so that when we are hel
 
 I'm teaching practical screencast over on [Parsinta](https://parsinta.com). You can find me on [twitter](https://twitter.com/irsyadadl), and sometime on [facebook](https://facebook.com/irsyadadl).
 
-![Irsyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=irsyadadl&hide=contribs,prs)
+![Irsyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=irsyadadl)
