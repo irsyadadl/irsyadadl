@@ -5,3 +5,5 @@ Let's start living like no one can help us in any event, so that when we are hel
 I'm teaching practical screencast over on [Parsinta](https://parsinta.com). You can find me on [twitter](https://twitter.com/irsyadadl), and sometime on [facebook](https://facebook.com/irsyadadl).
 
 I've just released my first book. If you don't mind, please read it over on [Parsinta](https://parsinta.com/ebooks).
+
+If you like my work, you can hit sponsor button, or donate me on [Saweria](https://saweria.co/irsyadadl).
