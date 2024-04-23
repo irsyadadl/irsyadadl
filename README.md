@@ -3,4 +3,4 @@ Let's start living like no one can help us in any event, so that when we are hel
 
 You can find me on [twitter](https://twitter.com/irsyadadl), and sometime on [facebook](https://facebook.com/irsyadadl). I've just released my first book.  If you don't mind, please read it over on [Parsinta](https://parsinta.com/ebooks). If you like my work, you can hit [sponsor button](https://github.com/sponsors/irsyadadl), or donate me on [Saweria](https://saweria.co/irsyadadl).
 
-Explore my personal templates that I've built over the past month. From web apps to design systems, [all here](https://irsyad.co/s).
+Explore my **personal templates** that I've built over the past month. From web apps to design systems, [all here](https://irsyad.co/s).
