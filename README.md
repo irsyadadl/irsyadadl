@@ -3,4 +3,4 @@ I live by the motto: "Rely on yourself, and let every helping hand be a bonus." 
 
 Stay connected via [Twitter](https://twitter.com/irsyadadl) and occasionally on [Facebook](https://facebook.com/irsyadadl). Dive into my first book available on [Parsinta](https://parsinta.com/ebooks). Appreciate my contributions? Consider hitting the [sponsor button](https://github.com/sponsors/irsyadadl) or supporting me on [PayPal](https://www.paypal.com/paypalme/irsyaddotco) or [Saweria](https://saweria.co/irsyadadl).
 
-Explore my **personal templates** for everything from web apps to design systems, available [here](https://irsyad.co/s).
+Explore my **personal templates** for everything from web apps to design systems, available [here]([https://irsyad.co/s](https://irsyadadl.gumroad.com/)).
